@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Citroen C4 Lounge",
+        "description": "Origen frances caja automatica",
+        "price": 450,
+        "thumbnail": "https://www.autocosmos.com.ar/auto/usado/citroen/c4-lounge",
+        "code": 2,
+        "stock": 159
+    },
+    {
+        "title": "Tracker Chevrolet",
+        "description": "4x4 origen mexicano",
+        "price": 350,
+        "thumbnail": "https://chevrolet.com.gt/vehiculo/chevrolet-tracker/",
+        "code": 2,
+        "stock": 147 
+    }
+    ,
+    {
+        "title": "Renault 12",
+        "description": "Coche nacional",
+        "price": 250,
+        "thumbnail": "https://es.wikipedia.org/wiki/Renault_12",
+        "code": 1,
+        "stock": 1500
+    }
+  ]
